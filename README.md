@@ -1,6 +1,6 @@
 <br/>
 <p align="center">
-  <a href="https://github.com/aaryavbehl/loaofficialbot">
+  <a href="https://github.com/aaryavbehl/killua">
     <img src="https://community.facer.io/uploads/default/original/3X/b/4/b4242425bfb08f7d84dcc5b0245c86a46f260536.gif" alt="Logo" width="80" height="80">
   </a>
 
